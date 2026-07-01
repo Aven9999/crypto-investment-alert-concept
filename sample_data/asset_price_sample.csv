@@ -1,6 +1,0 @@
-timestamp,asset_symbol,price,volume,event
-2026-06-01 09:00:00,BTC,105000,1200,normal
-2026-06-01 10:00:00,BTC,102500,3100,price_drop_volume_spike
-2026-06-01 11:00:00,ETH,5200,900,normal
-2026-06-01 12:00:00,ETH,4980,2600,price_drop_volume_spike
-2026-06-01 13:00:00,SOL,210,1800,normal
